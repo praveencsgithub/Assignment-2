@@ -1,0 +1,32 @@
+ul>li{
+    float: left;
+    list-style-type: none;
+    font-family: fantasy;
+    color: yellow;
+}
+button{
+    margin-left: 200px;
+    margin-top: 17px;
+    color: white;
+    background-color: rgb(194, 75, 75);
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-color: white;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+    color: yellow;
+}
+.button{
+    margin-left: 400px;
+}
+.img{
+    float: right;
+}
+.list{
+    padding-left: 100px;
+    padding-top: 20px;
+}
