@@ -10,6 +10,6 @@
 
 # Time taken to finish this project is around 3-4 hours.
 
-[Live link for Project-2](https://tubular-sundae-05a509.netlify.app/)
+[Live link for Project-2](https://fascinating-biscuit-a3b18c.netlify.app/)
 
 
